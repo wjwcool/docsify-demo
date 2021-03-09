@@ -232,16 +232,14 @@ _一般建议将文档放进 docs 文件下面，可以参考我的仓库：[htt
 
 **1.导入 Github 项目**
 
-![image-20200411170453064](/Users/shuang.kou/Library/Application Support/typora-user-images/image-20200411170453064.png)
+![](..\images\Dingtalk_20210309213148.jpg)
 
 注意把下面的是否开源勾选为公开，不然别人无法访问。
 
-![](https://imgkr.cn-bj.ufileos.com/90c323a9-07d1-4a2b-bde8-7ac61d99941a.png)
-
 **2.选择 Gitee Pages 服务**
 
-![](https://imgkr.cn-bj.ufileos.com/e1869e66-9c25-44c4-91c8-a04ee2e509b6.png)
+![](..\images\Dingtalk_20210309213323.jpg)
 
-![](https://imgkr.cn-bj.ufileos.com/ba11f6fe-102a-452c-b5d6-c47a0c451e58.png)**3.收获喜悦的成果**
+**3.收获喜悦的成果**
 
-![](https://imgkr.cn-bj.ufileos.com/31aa3b38-f583-464d-b2e0-a78228b8c486.png)
+![](..\images\Dingtalk_20210309213518.jpg)
